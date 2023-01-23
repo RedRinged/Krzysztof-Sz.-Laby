@@ -1,9 +1,8 @@
 # Game_of_life
 ## Patryk Popławski 82668
-
-### Language C 
-### library MPI
-### Używany oraz visual S Google Collab
+ 
+### Biblioteka MPI
+### Używany Google Collab oraz visual S 
 
 # Funkcja main rozpoczyna się od tworzenia zmiennej suma, która jest używana do przechowywania sumy iteracji. Następnie inicjalizuje MPI i ustawia liczbę iteracji na DEFAULT_ITERATIONS, jeśli nie zostanie podana żadna inna liczba.
 
